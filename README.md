@@ -1,5 +1,5 @@
 
-# Salisu 
+# README.md Generator.
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -16,21 +16,26 @@
 
  
 ## Description
-lkffkaf
+A quick way to create professional README.md by using command-line from user's input. This is made possibele by using [Inquirer package](https://www.npmjs.com/package/inquirer).
 
 ## Usage
-lago;gj
+Navigate to the directory of the project, initialize prompts using the command "node index.js". Then enter the required information. The aftermath is your README.md file.
 
 ## installation
-gkagkkg
+To use this project, make sure to have VS Code,GitBash, Node.js installed in your computer and clone the repo.
 
 ## Contributing
-glmg;g
+To contribute, please, fork the repo...
 
 ## Questions
-reach me via: gsg'ag
+For questions, reach me via by clicking:
+  
+  * Github: https://github.com/isahsalisu
 
-https://github.com/fjggjg
+  * Email: isahsalisu87@gmail.com
+ 
+  
+
 
 
 
