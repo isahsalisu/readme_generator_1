@@ -46,7 +46,7 @@ const querries = [
     {
       type: "input",
       name: "github",
-      message: "Please provide your GitHub username:"
+      message: "Please enter your GitHub username:"
     },
     {
       type: "input",
